@@ -1,6 +1,19 @@
-# profile
+# About Me
 
-About Me
+<p>
+  Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm interesting in web development backend and frontend, for that reason I'm studying on my own this topics.
+</p>
+<p>
+  You can find more about me in my <a src="https://elluiso.engineer">web page</a>
+</p>
+<p>
+  I'm also interesting in electronics. I think that FPGA technology is more useful than people think.
+I have developed virtual reality apps, you can find my <a src="https://github.com/lalodsi/phobicsol-project">DSC Solution Challenge project</a>
+</p>
+ 
+
+
+## Maybe you will find here repositories with the next technologies..
 
 ## Tech
 <p>
@@ -23,6 +36,16 @@ About Me
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jquery/jquery-original.svg" alt="jQuery" height=30/>
   <img src="" alt="" height=30/>
+</p>
+
+## Electronic design and embebeed programming
+<p>
+  <ul>
+    <li>VHDL</li>
+    <li>Verilog</li>
+    <li>Assembler</li>
+    <li>C</li>
+  </ul>
 </p>
 
 ## Learning
