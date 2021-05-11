@@ -1,19 +1,25 @@
 # About Me
+<br>
 
-<p>
-  Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm interesting in web development backend and frontend, for that reason I'm studying on my own this topics.
-</p>
-<p>
-  You can find more about me in my <a src="https://elluiso.engineer">web page</a>
-</p>
-<p>
+Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm interesting in web development backend and frontend, for that reason I'm studying on my own this topics.
+
+
+  You can find more about me in my [web page](https://elluiso.engineer)
+
+<br>
+
   I'm also interesting in electronics. I think that FPGA technology is more useful than people think.
 I have developed virtual reality apps, you can find my <a src="https://github.com/lalodsi/phobicsol-project">DSC Solution Challenge project</a>
-</p>
- 
 
+<br>
 
-## Maybe you will find here repositories with the next technologies..
+  Actually I'm part of the [Google Developer Student Club IPN - UPIITA core team](https://dsc.community.dev/u/my8bvk/#/about)
+
+<img src="https://raw.githubusercontent.com/lalodsi/profile/main/images/logoDSC.svg?token=AN7LWF5MDJPBXXDESFCJRLTAUN2P4" alt="JavaScript" height=50/>
+
+<br> <br> <br> <br>
+
+### Maybe you will find here repositories with the next technologies..
 
 ## Tech
 <p>
