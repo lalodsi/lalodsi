@@ -1,7 +1,7 @@
 # About Me
 <br>
 
-Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm interesting in web development backend and frontend, for that reason I'm studying on my own this topics.
+Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm studying on my own web development backend and frontend.
 
 
   You can find more about me in my [web page](https://elluiso.engineer)
