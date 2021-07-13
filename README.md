@@ -13,7 +13,7 @@ I have developed virtual reality apps, you can find my <a src="https://github.co
 
 <br>
 
-  Actually I'm part of the [Google Developer Student Club IPN - UPIITA core team](https://dsc.community.dev/u/my8bvk/#/about)
+  Actually I'm the [Google Developer Student Club IPN](https://dsc.community.dev/u/my8bvk/#/about) Lead
 
 <img src="https://raw.githubusercontent.com/lalodsi/profile/main/images/logoDSC.svg?token=AN7LWF5MDJPBXXDESFCJRLTAUN2P4" alt="JavaScript" height=50/>
 
