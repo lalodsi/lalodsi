@@ -4,8 +4,6 @@
 Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm studying on my own web development backend and frontend.
 
 
-  You can find more about me in my [web page](https://elluiso.engineer)
-
 <br>
 
   I'm also interesting in electronics. I think that FPGA technology is more useful than people think.
