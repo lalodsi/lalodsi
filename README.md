@@ -30,13 +30,15 @@ I have developed virtual reality apps, you can find my <a src="https://github.co
   
   <img src="" alt="" height=30/>
 </p>
-Javascript
+### Javascript
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-plain.svg" alt="JavaScript" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="NodeJS" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm" height=30/>
 </p>
-Backend
+
+### Backend
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-plain.svg" alt ="mySQL" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" alt="Git" height=30/>
@@ -44,7 +46,9 @@ Backend
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="NodeJS" height=30/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" height=30/>
 </p>
-Others
+
+### Others
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg" alt="Java" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="C" height=30/>
