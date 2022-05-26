@@ -20,22 +20,39 @@ I have developed virtual reality apps, you can find my <a src="https://github.co
 ### Maybe you will find here repositories with the next technologies..
 
 ## Tech
+### Web
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-plain.svg" alt="JavaScript" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" alt="CSS3" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML5" height=30/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height=30/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height=30/>
+  
+  <img src="" alt="" height=30/>
+</p>
+### Javascript
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-plain.svg" alt="JavaScript" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="NodeJS" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm" height=30/>
+</p>
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-plain.svg" alt ="mySQL" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" alt="Git" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-plain.svg" alt="PHP" height=30/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="NodeJS" height=30/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" height=30/>
+  <img src="" alt="NodeJS" height=30/>
+  <img src="" alt="NodeJS" height=30/>
+  
+</p>
+### Others
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg" alt="Java" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="C" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" height=30/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/csharp/csharp-original.svg" alt="CSharp" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-plain.svg" alt ="mySQL" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" alt="CSS3" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" alt="Git" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML5" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="NodeJS" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm" height=30/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-plain.svg" alt="PHP" height=30/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="PHP" height=30/>
-  
-  <img src="" alt="" height=30/>
 </p>
 
 ## Frameworks and Libraries
