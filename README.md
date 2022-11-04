@@ -1,9 +1,9 @@
-# About Me
+# Hi! This is [Luis Rodríguez](https://www.linkedin.com/in/luis-rodriguez-935613141/)
 
 <div align="center">
-  <p align="center" href="https://github.com/aleepsy"> 
-    <img src="https://komarev.com/ghpvc/?username=lalodsi&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="aleepsy"/> 
-    <img src="https://img.shields.io/github/followers/lalodsi.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="lalodsi"/> 
+  <p align="center" href="https://github.com/lalodsi"> 
+    <img src="https://komarev.com/ghpvc/?username=lalodsi&label=Profile%20views&color=0f75b6&style=flat&color=yellow" alt="lalodsi"/> 
+    <img src="https://img.shields.io/github/followers/lalodsi.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=blue" alt="lalodsi"/> 
     <img src="https://img.shields.io/twitter/follow/elluisorod?color=purple&label=Follow&logo=twitter&style=flat" alt="elluisorod"/>   
   </p>
 </div>
