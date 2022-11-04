@@ -2,9 +2,9 @@
 
 <div align="center">
   <p align="center" href="https://github.com/aleepsy"> 
-    <img src="https://komarev.com/ghpvc/?username=aleepsy&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="aleepsy"/> 
-    <img src="https://img.shields.io/github/followers/aleepsy.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="aleepsy"/> 
-    <img src="https://img.shields.io/twitter/follow/_aleepsy?color=purple&label=Follow&logo=twitter&style=flat" alt="aleepsy"/>   
+    <img src="https://komarev.com/ghpvc/?username=lalodsi&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="aleepsy"/> 
+    <img src="https://img.shields.io/github/followers/lalodsi.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="aleepsy"/> 
+    <img src="https://img.shields.io/twitter/follow/lalodsi?color=purple&label=Follow&logo=twitter&style=flat" alt="aleepsy"/>   
   </p>
 </div>
 
