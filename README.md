@@ -69,15 +69,3 @@ Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height=30  />
   </p>
 </div>
-
-<div>
-  <h3>Electronic design and embebeed programming</h3>
-  <p>
-    <ul>
-      <li>VHDL</li>
-      <li>Verilog</li>
-      <li>Assembler</li>
-      <li>C</li>
-    </ul>
-  </p>
-</div>
