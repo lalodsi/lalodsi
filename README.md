@@ -1,4 +1,13 @@
 # About Me
+
+<div align="center">
+  <p align="center" href="https://github.com/aleepsy"> 
+    <img src="https://komarev.com/ghpvc/?username=aleepsy&label=Profile%20views&color=0e75b6&style=flat&color=yellow" alt="aleepsy"/> 
+    <img src="https://img.shields.io/github/followers/aleepsy.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="aleepsy"/> 
+    <img src="https://img.shields.io/twitter/follow/_aleepsy?color=purple&label=Follow&logo=twitter&style=flat" alt="aleepsy"/>   
+  </p>
+</div>
+
 <br>
 
 Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm studying on my own web development backend and frontend.
