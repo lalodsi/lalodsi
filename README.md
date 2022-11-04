@@ -17,21 +17,6 @@
 
 Hi there! I'm Luis Eduardo Rodríguez Ramírez and I'm student a bachelors degree in Mechatronics Engineering. I'm interesting in all about technology since low level like electronics, microcontrollers and C programming to Javascript, React, Cloud and Machine Learning.
 
-## Principal Interests
-
-
-<br>
-
-  I'm also interesting in electronics. I think that FPGA technology is more useful than people think.
-I have developed virtual reality apps, you can find my <a src="https://github.com/lalodsi/phobicsol-project">DSC Solution Challenge project</a>
-
-<br>
-
-  Actually I'm the [Google Developer Student Club IPN](https://dsc.community.dev/u/my8bvk/#/about) Lead
-
-<img src="https://raw.githubusercontent.com/lalodsi/profile/main/images/logoDSC.svg?token=AN7LWF5MDJPBXXDESFCJRLTAUN2P4" alt="JavaScript" height=50/>
-
-<br> <br> <br> <br>
 
 ## Maybe you will find here repositories with the next technologies..
 <h3 align="center"> Front end </h3>
@@ -96,10 +81,3 @@ I have developed virtual reality apps, you can find my <a src="https://github.co
     </ul>
   </p>
 </div>
-
-## Learning
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/wordpress/wordpress-plain.svg" alt="Wordpress" height=30/>
-  
-</p>
