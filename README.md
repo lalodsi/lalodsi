@@ -1,7 +1,7 @@
 <h1 align="center">Hi! This is <a href="https://www.linkedin.com/in/luis-rodriguez-935613141/">Luis Rodríguez</a></h1>
 <h2 align="center">
   Mechatronics Engineer student @ <a href="https://www.upiita.ipn.mx/">IPN UPIITA</a> <br>
-  Software Engineer Jr @ <a href="https://capgemini-engineering.com/us/en/">Capgemini Engineering</a> <br>
+  Software Engineer @ <a href="https://capgemini-engineering.com/us/en/">Capgemini Engineering</a> <br>
   Core Team @ <a href="https://gdsc.community.dev/national-polytechnic-institute-of-mexico-upiita/">Google Developer Students Club IPN - UPIITA</a> <br>
 </h2>
 
